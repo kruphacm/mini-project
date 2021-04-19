@@ -1,0 +1,97 @@
+Symptom 1,Symptom 2,Symptom 3,Disease,Treatment
+Cloudy vision/Blurred Vision,Sensitivity to light,Poor vision at night,Cataract,Surgery
+Cloudy vision/Blurred Vision,Poor vision at night,Sensitivity to light,Cataract,Surgery
+Cloudy vision/Blurred Vision,Sensitivity to light,Double vision,Cataract,Surgery
+Cloudy vision/Blurred Vision,Double vision,Sensitivity to light,Cataract,Surgery
+Cloudy vision/Blurred Vision,Poor vision at night,Double vision,Cataract,Surgery
+Cloudy vision/Blurred Vision,Double vision,Poor vision at night,Cataract,Surgery
+Sensitivity to light,Cloudy vision/Blurred Vision,Poor vision at night,Cataract,Surgery
+Sensitivity to light,Poor vision at night,Cloudy vision/Blurred Vision,Cataract,Surgery
+Sensitivity to light,Cloudy vision/Blurred Vision,Double vision,Cataract,Surgery
+Sensitivity to light,Double vision,Cloudy vision/Blurred Vision,Cataract,Surgery
+Sensitivity to light,Poor vision at night,Double vision,Cataract,Surgery
+Sensitivity to light,Double vision,Poor vision at night,Cataract,Surgery
+Poor vision at night,Cloudy vision/Blurred Vision,Sensitivity to light,Cataract,Surgery
+Poor vision at night,Sensitivity to light,Cloudy vision/Blurred Vision,Cataract,Surgery
+Poor vision at night,Cloudy vision/Blurred Vision,Double vision,Cataract,Surgery
+Poor vision at night,Double vision,Cloudy vision/Blurred Vision,Cataract,Surgery
+Poor vision at night,Sensitivity to light,Double vision,Cataract,Surgery
+Poor vision at night,Double vision,Sensitivity to light,Cataract,Surgery
+Double vision,Sensitivity to light,Cloudy vision/Blurred Vision,Cataract,Surgery
+Double vision,Cloudy vision/Blurred Vision,Sensitivity to light,Cataract,Surgery
+Double vision,Poor vision at night,Cloudy vision/Blurred Vision,Cataract,Surgery
+Double vision,Cloudy vision/Blurred Vision,Poor vision at night,Cataract,Surgery
+Double vision,Sensitivity to light,Poor vision at night,Cataract,Surgery
+Double vision,Poor vision at night,Sensitivity to light,Cataract,Surgery
+Eye pain,Red-eye,Vision Loss,Glaucoma,Medical and Surgery
+Eye pain,Cloudy vision/Blurred Vision,Vision Loss,Glaucoma,Medical and Surgery
+Eye pain,Cloudy vision/Blurred Vision,Red-eye,Glaucoma,Medical and Surgery
+Eye pain,Red-eye,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Eye pain,Vision Loss,Red-eye,Glaucoma,Medical and Surgery
+Eye pain,Vision Loss,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Eye pain,Red-eye,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Red-eye,Eye pain,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Eye pain,Vision Loss,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Vision Loss,Eye pain,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Red-eye,Vision Loss,Glaucoma,Medical and Surgery
+Cloudy vision/Blurred Vision,Vision Loss,Red-eye,Glaucoma,Medical and Surgery
+Red-eye,Cloudy vision/Blurred Vision,Eye pain,Glaucoma,Medical and Surgery
+Red-eye,Eye pain,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Red-eye,Cloudy vision/Blurred Vision,Vision Loss,Glaucoma,Medical and Surgery
+Red-eye,Vision Loss,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Red-eye,Eye pain,Vision Loss,Glaucoma,Medical and Surgery
+Red-eye,Vision Loss,Eye pain,Glaucoma,Medical and Surgery
+Vision Loss,Cloudy vision/Blurred Vision,Eye pain,Glaucoma,Medical and Surgery
+Vision Loss,Eye pain,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Vision Loss,Cloudy vision/Blurred Vision,Red-eye,Glaucoma,Medical and Surgery
+Vision Loss,Red-eye,Cloudy vision/Blurred Vision,Glaucoma,Medical and Surgery
+Vision Loss,Red-eye,Eye pain,Glaucoma,Medical and Surgery
+Vision Loss,Eye pain,Red-eye,Glaucoma,Medical and Surgery
+Dry or watery eyes,Tired,burning or itching,Eye Strain,Artificial tears
+Dry or watery eyes,burning or itching,Tired,Eye Strain,Artificial tears
+Tired,burning or itching,Dry or watery eyes,Eye Strain,Artificial tears
+Tired,Dry or watery eyes,burning or itching,Eye Strain,Artificial tears
+burning or itching,Tired,Dry or watery eyes,Eye Strain,Artificial tears
+burning or itching,Dry or watery eyes,Tired,Eye Strain,Artificial tears
+"Blurred vision for distant objects, near objects, or both","Irritation, itching",Headache,Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+"Blurred vision for distant objects, near objects, or both",Headache,"Irritation, itching",Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+Headache,"Blurred vision for distant objects, near objects, or both","Irritation, itching",Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+Headache,"Irritation, itching","Blurred vision for distant objects, near objects, or both",Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+"Irritation, itching","Blurred vision for distant objects, near objects, or both",Headache,Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+"Irritation, itching",Headache,"Blurred vision for distant objects, near objects, or both",Refractive Errors,"Eyeglasses,Contact lenses,Refractive surgery"
+Foreign body sensation eye discomfort,Burning,Itching,Dry eye Syndrome,Artificial tears
+Foreign body sensation eye discomfort,Itching,Burning,Dry eye Syndrome,Artificial tears
+Itching,Foreign body sensation eye discomfort,Burning,Dry eye Syndrome,Artificial tears
+Itching,Burning,Foreign body sensation eye discomfort,Dry eye Syndrome,Artificial tears
+Burning,Foreign body sensation eye discomfort,Itching,Dry eye Syndrome,Artificial tears
+Burning,Itching,Foreign body sensation eye discomfort,Dry eye Syndrome,Artificial tears
+Double vision,Blurred vision,Loss of vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Double vision,Loss of vision,Blurred vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Blurred vision,Double vision,Loss of vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Blurred vision,Loss of vision,Double vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Loss of vision,Double vision,Blurred vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Loss of vision,Blurred vision,Double vision,Diabetic Retinopathy,"Management of Diabetes,laser treatment,Surgery"
+Discharge or stickiness,Eye pain,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Discharge or stickiness,burning or itching,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Discharge or stickiness,Eye pain,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Discharge or stickiness,Red-eye,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Discharge or stickiness,burning or itching,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Discharge or stickiness,Red-eye,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,Discharge or stickiness,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,burning or itching,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,Discharge or stickiness,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,Red-eye,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,burning or itching,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Eye pain,Red-eye,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Discharge or stickiness,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Eye pain,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Discharge or stickiness,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Red-eye,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Eye pain,Red-eye,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+burning or itching,Red-eye,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,Discharge or stickiness,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,burning or itching,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,Discharge or stickiness,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,Eye pain,Discharge or stickiness,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,Eye pain,burning or itching,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
+Red-eye,burning or itching,Eye pain,Conjunctivitis,Antibiotic/ antihistaminic eye drops or ointments
