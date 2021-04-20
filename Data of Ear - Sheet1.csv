@@ -35,27 +35,27 @@ Earache,Fluid drainage from the ear,Eardrum Bulge,Middle Ear Infection,"Deconges
 Earache,Eardrum Bulge,Fluid Drainage from the ear,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
 Fluid drainage from the ear,Earache,Eardrum Bulge,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
 Fluid drainage from the ear,Eardrum Bulge,Earache,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
-Painful,Tender,Red,Outer Ear Infection,Antibiotics
-Painful,Red,Tender,Outer Ear Infection,Antibiotics
+Painful,Tender,Red appearence,Outer Ear Infection,Antibiotics
+Painful,Red appearence,Tender,Outer Ear Infection,Antibiotics
 Painful,Tender,Swollen,Outer Ear Infection,Antibiotics
 Painful,Swollen,Tender,Outer Ear Infection,Antibiotics
-Painful,Red,Swollen,Outer Ear Infection,Antibiotics
-Painful,Swollen,Red,Outer Ear Infection,Antibiotics
-Tender,Painful,Red,Outer Ear Infection,Antibiotics
-Tender,Red,Painful,Outer Ear Infection,Antibiotics
+Painful,Red appearence,Swollen,Outer Ear Infection,Antibiotics
+Painful,Swollen,Red appearence,Outer Ear Infection,Antibiotics
+Tender,Painful,Red appearence,Outer Ear Infection,Antibiotics
+Tender,Red appearence,Painful,Outer Ear Infection,Antibiotics
 Tender,Painful,Swollen,Outer Ear Infection,Antibiotics
 Tender,Swollen,Painful,Outer Ear Infection,Antibiotics
-Tender,Red,Swollen,Outer Ear Infection,Antibiotics
-Tender,Swollen,Red,Outer Ear Infection,Antibiotics
-Red,Painful,Tender,Outer Ear Infection,Antibiotics
-Red,Tender,Painful,Outer Ear Infection,Antibiotics
-Red,Painful,Swollen,Outer Ear Infection,Antibiotics
-Red,Swollen,Painful,Outer Ear Infection,Antibiotics
-Red,Tender,Swollen,Outer Ear Infection,Antibiotics
-Red,Swollen,Tender,Outer Ear Infection,Antibiotics
+Tender,Red appearence,Swollen,Outer Ear Infection,Antibiotics
+Tender,Swollen,Red appearence,Outer Ear Infection,Antibiotics
+Red appearence,Painful,Tender,Outer Ear Infection,Antibiotics
+Red appearence,Tender,Painful,Outer Ear Infection,Antibiotics
+Red appearence,Painful,Swollen,Outer Ear Infection,Antibiotics
+Red appearence,Swollen,Painful,Outer Ear Infection,Antibiotics
+Red appearence,Tender,Swollen,Outer Ear Infection,Antibiotics
+Red appearence,Swollen,Tender,Outer Ear Infection,Antibiotics
 Swollen,Tender,Painful,Outer Ear Infection,Antibiotics
 Swollen,Painful,Tender,Outer Ear Infection,Antibiotics
-Swollen,Red,Painful,Outer Ear Infection,Antibiotics
-Swollen,Painful,Red,Outer Ear Infection,Antibiotics
-Swollen,Tender,Red,Outer Ear Infection,Antibiotics
-Swollen,Red,Tender,Outer Ear Infection,Antibiotics
+Swollen,Red appearence,Painful,Outer Ear Infection,Antibiotics
+Swollen,Painful,Red appearence,Outer Ear Infection,Antibiotics
+Swollen,Tender,Red appearence,Outer Ear Infection,Antibiotics
+Swollen,Red appearence,Tender,Outer Ear Infection,Antibiotics
