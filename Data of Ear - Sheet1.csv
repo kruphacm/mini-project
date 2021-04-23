@@ -1,0 +1,61 @@
+SYMPTOM 1,SYMPTOM 2,SYMPTOM 3,DISEASE,TREATMENT
+Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Mild pain or Discomfort inside the ear,Pus,A feeling of Pressure inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Mild pain or Discomfort inside the ear,Hearing loss,A feeling of Pressure inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Mild pain or Discomfort inside the ear,Pus,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Mild pain or Discomfort inside the ear,Hearing loss,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Pus,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Hearing loss,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Pus,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+A feeling of Pressure inside the ear,Hearing loss,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,Mild pain or Discomfort inside the ear,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,Hearing loss,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,A feeling of Pressure inside the ear,Hearing loss,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Pus,Hearing loss,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,A feeling of Pressure inside the ear,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,Mild pain or Discomfort inside the ear,A feeling of Pressure inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,Pus,Mild pain or Discomfort inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,Mild pain or Discomfort inside the ear,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,A feeling of Pressure inside the ear,Pus,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Hearing loss,Pus,A feeling of Pressure inside the ear,Ear Infection,"Ear drops,Ibuprofen and Acetaminophen"
+Dizziness,Nausea,Vomiting,Inner ear Infection,Vestibular rehabilitation Therapy
+Dizziness,Vomiting,Nausea,Inner ear Infection,Vestibular rehabilitation Therapy
+Nausea,Vomiting,Dizziness,Inner ear Infection,Vestibular rehabilitation Therapy
+Nausea,Dizziness,Vomiting,Inner ear Infection,Vestibular rehabilitation Therapy
+Vomiting,Nausea,Dizziness,Inner ear Infection,Vestibular rehabilitation Therapy
+Vomiting,Dizziness,Nausea,Inner ear Infection,Vestibular rehabilitation Therapy
+Eardrum Bulge,Ear ache,Fluid drainage from the ear,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Eardrum Bulge,Fluid drainage from the ear,Ear ache,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Ear ache,Fluid drainage from the ear,Eardrum Bulge,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Ear ache,Eardrum Bulge,Fluid drainage from the ear,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Fluid drainage from the ear,Ear ache,Eardrum Bulge,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Fluid drainage from the ear,Eardrum Bulge,Ear ache,Middle Ear Infection,"Decongestant,nasal steroids or antihistamine"
+Painful,Tender,Red,Outer Ear Infection,Antibiotics
+Painful,Red,Tender,Outer Ear Infection,Antibiotics
+Painful,Tender,Swollen,Outer Ear Infection,Antibiotics
+Painful,Swollen,Tender,Outer Ear Infection,Antibiotics
+Painful,Red,Swollen,Outer Ear Infection,Antibiotics
+Painful,Swollen,Red,Outer Ear Infection,Antibiotics
+Tender,Painful,Red,Outer Ear Infection,Antibiotics
+Tender,Red,Painful,Outer Ear Infection,Antibiotics
+Tender,Painful,Swollen,Outer Ear Infection,Antibiotics
+Tender,Swollen,Painful,Outer Ear Infection,Antibiotics
+Tender,Red,Swollen,Outer Ear Infection,Antibiotics
+Tender,Swollen,Red,Outer Ear Infection,Antibiotics
+Red,Painful,Tender,Outer Ear Infection,Antibiotics
+Red,Tender,Painful,Outer Ear Infection,Antibiotics
+Red,Painful,Swollen,Outer Ear Infection,Antibiotics
+Red,Swollen,Painful,Outer Ear Infection,Antibiotics
+Red,Tender,Swollen,Outer Ear Infection,Antibiotics
+Red,Swollen,Tender,Outer Ear Infection,Antibiotics
+Swollen,Tender,Painful,Outer Ear Infection,Antibiotics
+Swollen,Painful,Tender,Outer Ear Infection,Antibiotics
+Swollen,Red,Painful,Outer Ear Infection,Antibiotics
+Swollen,Painful,Red,Outer Ear Infection,Antibiotics
+Swollen,Tender,Red,Outer Ear Infection,Antibiotics
+Swollen,Red,Tender,Outer Ear Infection,Antibiotics
