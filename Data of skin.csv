@@ -1,10 +1,10 @@
 Symptom 1,Symptom 2,Symptom 3,Disease,Treatment
-Itching,"Skin becomes dry, thickened and scaly","Rash-commonly effects  face, neck, back of knees and arms",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
-Itching,"Rash-commonly effects  face, neck, back of knees and arms","Skin becomes dry, thickened and scaly",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
-"Skin becomes dry, thickened and scaly","Rash-commonly effects  face, neck, back of knees and arms",Itching,Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
-"Skin becomes dry, thickened and scaly",Itching,"Rash-commonly effects  face, neck, back of knees and arms",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
-"Rash-commonly effects  face, neck, back of knees and arms",Itching,"Skin becomes dry, thickened and scaly",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
-"Rash-commonly effects  face, neck, back of knees and arms","Skin becomes dry, thickened and scaly",Itching,Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+Itching,"Skin becomes dry, thickened and scaly","Rash-commonly effectsÂ face, neck, back of knees and arms",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+Itching,"Rash-commonly effectsÂ  face, neck, back of knees and arms","Skin becomes dry, thickened and scaly",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+"Skin becomes dry, thickened and scaly","Rash-commonly effectsÂ  face, neck, back of knees and arms",Itching,Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+"Skin becomes dry, thickened and scaly",Itching,"Rash-commonly effectsÂ  face, neck, back of knees and arms",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+"Rash-commonly effects face, neck, back of knees and arms",Itching,"Skin becomes dry, thickened and scaly",Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
+"Rash-commonly effects face, neck, back of knees and arms","Skin becomes dry, thickened and scaly",Itching,Eczema,"Lotions and creams to keep skin moist, these should be applied when the skin is damp."
 "Fine, branny scaling","Upper trunk, upper arms, neck and abdomen","change of skin color, white patches",Tinea versicolo,"Fluconazole ,150mg once a week for 4 weeks"
 "Fine, branny scaling","change of skin color, white patches","Upper trunk, upper arms, neck and abdomen",Tinea versicolo,"Fluconazole ,150mg once a week for 4 weeks"
 "Upper trunk, upper arms, neck and abdomen","Fine, branny scaling","change of skin color, white patches",Tinea versicolo,"Fluconazole ,150mg once a week for 4 weeks"
@@ -46,7 +46,7 @@ oval macules,loss of hair color,pigmentation in the skin,vitiligo,surgical treat
 oval macules,pigmentation in the skin,patches of skin,vitiligo,surgical treatment
 oval macules,patches of skin,pigmentation in the skin,vitiligo,surgical treatment
 oval macules,loss of hair color,patches of skin,vitiligo,surgical treatment
-oval macules,patches of skinÂ ,loss of hair color,vitiligo,surgical treatment
+oval macules,patches of skinÃ‚Â ,loss of hair color,vitiligo,surgical treatment
 red pimples,infected hair follicles,painful lumps,acne,treated with creams
 red pimples,painful lumps,infected hair follicles,acne,treated with creams
 red pimples,infected hair follicles,"Small red, tender bumps",acne,treated with creams
